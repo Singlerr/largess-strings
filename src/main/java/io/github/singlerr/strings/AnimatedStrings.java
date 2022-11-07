@@ -3,6 +3,10 @@ package io.github.singlerr.strings;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 
+/***
+ * A utility class for animating strings (e.g. rolling strings)
+ * @author Singlerr
+ */
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public final class AnimatedStrings {
     /***
